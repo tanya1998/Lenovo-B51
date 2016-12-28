@@ -11,5 +11,6 @@ import java.util.Scanner;
 			System.out.println("Bravo what's your name");
 			sub=keyboard.nextInt();
 			System.out.println(sub);
+				System.out.printlnn("I have changed it on github");
 		}
 	}
