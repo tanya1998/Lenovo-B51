@@ -1,2 +1,3 @@
 # Lenovo-B51
-My first Repository on GitHub
+My very first Repository on GitHub
+hello world
